@@ -40,3 +40,10 @@ php yii migrate
 ~~~
 
 ### 4. Run your local server and start using application
+
+Alternatively run 
+
+~~~
+php yii serve
+~~~
+
